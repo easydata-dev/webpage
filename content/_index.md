@@ -3,39 +3,17 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# Welcome to EasyData.dev!
 
-{{< columns >}}
-## Astris ipse furtiva
+## About us
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+At EasyData.dev, we simplify the world of data engineering. Whether you’re just starting or already experienced, our platform offers practical guides, tools, and best practices to help you design, build, and optimize your data pipelines with ease. Dive into tutorials on ETL, data warehousing, cloud platforms, and more. Let’s make data engineering easy together.
 
-<--->
+<p align="center"><iframe src="https://easydata905.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></p>
+<div id="substack-feed-embed"></div>
 
-## Suis quot vota
+Subscribe to our newsletter for the latest tips, tutorials, and industry insights delivered straight to your inbox. Don’t miss out on exclusive content that will level up your data engineering skills.
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+Join the Community – Subscribe Now!
 
 
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?

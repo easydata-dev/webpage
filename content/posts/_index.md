@@ -1,7 +1,4 @@
 ---
-menu:
-  after:
-    name: blog
-    weight: 5
-title: Blog
+_build:
+  render: never
 ---
