@@ -15,5 +15,3 @@ At EasyData.dev, we simplify the world of data engineering. Whether you’re jus
 Subscribe to our newsletter for the latest tips, tutorials, and industry insights delivered straight to your inbox. Don’t miss out on exclusive content that will level up your data engineering skills.
 
 Join the Community – Subscribe Now!
-
-
