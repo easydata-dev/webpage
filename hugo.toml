@@ -6,12 +6,6 @@ theme = 'hugo-book'
 [markup.goldmark.renderer]
  unsafe = true
 
- [[params.social]]
-  icon  = "icon-facebook"
-  title = "Connect with me on Facebook"
-  url   = "https://www.facebook.com/xyz"
-
-[[params.social]]
-  icon  = "icon-twitter"
-  title = "Follow me on Twitter"
-  url   = "https://twitter.com/xyz"
+[services]
+  [services.googleAnalytics]
+    ID = 'G-Z2FCNYSN7M'
