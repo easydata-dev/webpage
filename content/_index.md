@@ -1,17 +1,34 @@
 ---
-title: Introduction
-type: docs
+title: 'Home'
+date: 2023-10-24
+type: landing
+
+design:
+  background:
+    image:
+      # Add your image background to `assets/media/`.
+      filename: bg-hue.svg
+
+sections:
+  - block: resume-biography
+    content:
+      # The user's folder name in content/authors/
+      username: admin
+    design:
+      biography:
+        style: 'text-align: justify; font-size: 0.8em;'
+  - block: cta-button-list
+    content:
+      # Need a custom icon?
+      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
+      buttons:
+        - text: Subscribe to my newsletter
+          icon: academicons/arxiv
+          url: https://newsletter.easydata.dev/
+        - text: Watch my new YouTube videos
+          icon: brands/youtube
+          url: https://www.youtube.com/channel/UCFublZ1-0cFcb6lKm_kVz0A
+        - text: Connect with me on LinkedIn
+          icon: brands/linkedin
+          url: https://www.linkedin.com/in/czerwinskidev/
 ---
-
-# Welcome to EasyData.dev!
-
-## About us
-
-At EasyData.dev, we simplify the world of data engineering. Whether you’re just starting or already experienced, our platform offers practical guides, tools, and best practices to help you design, build, and optimize your data pipelines with ease. Dive into tutorials on ETL, data warehousing, cloud platforms, and more. Let’s make data engineering easy together.
-
-<p align="center"><iframe src="https://easydata905.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></p>
-<div id="substack-feed-embed"></div>
-
-Subscribe to our newsletter for the latest tips, tutorials, and industry insights delivered straight to your inbox. Don’t miss out on exclusive content that will level up your data engineering skills.
-
-Join the Community – Subscribe Now!
